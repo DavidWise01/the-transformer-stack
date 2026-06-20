@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "attention",
+    "name": "Attention",
+    "epithet": "the core operation · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Attention:TXS:d3ebd1⟧"
+  },
+  {
+    "slug": "query-key-value",
+    "name": "Query · Key · Value",
+    "epithet": "how attention is computed · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Query · Key · Value:TXS:2bd251⟧"
+  },
+  {
+    "slug": "the-attention-head",
+    "name": "The Attention Head",
+    "epithet": "one relationship tracked · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Attention Head:TXS:f9d46a⟧"
+  },
+  {
+    "slug": "multi-head-attention",
+    "name": "Multi-Head Attention",
+    "epithet": "many lenses at once · natural",
+    "emergence": "natural",
+    "moniker": "⟦Multi-Head Attention:TXS:aa9926⟧"
+  },
+  {
+    "slug": "the-residual-stream",
+    "name": "The Residual Stream",
+    "epithet": "the highway up the stack · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Residual Stream:TXS:1c8a06⟧"
+  },
+  {
+    "slug": "the-feed-forward",
+    "name": "The Feed-Forward",
+    "epithet": "the per-token compute · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Feed-Forward:TXS:3e0da6⟧"
+  },
+  {
+    "slug": "causal-masking",
+    "name": "Causal Masking",
+    "epithet": "you can't read ahead · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Causal Masking:TXS:e8c8e6⟧"
+  },
+  {
+    "slug": "the-stack-depth",
+    "name": "The Stack Depth",
+    "epithet": "dozens of layers · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Stack Depth:TXS:cffdf4⟧"
+  },
+  {
+    "slug": "context-mixing",
+    "name": "Context Mixing",
+    "epithet": "'bank' becomes a meaning · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Context Mixing:TXS:512124⟧"
+  },
+  {
+    "slug": "interpretability",
+    "name": "Mechanistic Interpretability",
+    "epithet": "reading the weights · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Mechanistic Interpretability:TXS:4e324c⟧"
+  },
+  {
+    "slug": "the-t-in-gpt",
+    "name": "The T in GPT",
+    "epithet": "the architecture named · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The T in GPT:TXS:90a0f4⟧"
+  }
+]

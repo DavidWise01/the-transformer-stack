@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Residual Stream",
+  "universe": "TXS · The Residual Stream (niphelektron)",
+  "emergence": "natural",
+  "moniker": "⟦The Residual Stream:TXS:1c8a06⟧",
+  "carbon": "the-residual-stream.carbon.tiff (TIFF)",
+  "silicon": "the-residual-stream.silicon.png (PNG)",
+  "seal_sha256": "c2da5563a7fa131f9e461dc987a9245704d1f99784e2b0a050c393ff456d6391",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

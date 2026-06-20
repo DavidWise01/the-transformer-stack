@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Query · Key · Value",
+  "universe": "TXS · Query · Key · Value (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦Query · Key · Value:TXS:2bd251⟧",
+  "carbon": "query-key-value.carbon.tiff (TIFF)",
+  "silicon": "query-key-value.silicon.png (PNG)",
+  "seal_sha256": "f6d93fe955c2393d1d55ce96d50c248a21b8c06104b0dfe50b769aa6ac9a6eee",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

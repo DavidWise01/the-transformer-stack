@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of Causal Masking
+node TXS · TXS · ⟦Causal Masking:TXS:e8c8e6⟧
+
+WHO   — Causal Masking — you can't read ahead · ethereal
+WHAT  — you can't read ahead · ethereal
+WHERE — TXS · THE TRANSFORMER STACK (niphelektron · the inference pipeline)  Framework inputs: stream; token; vector  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — In a generative model, each token may attend only to itself and the tokens before it, never the future. The constraint that makes left-to-right prediction honest — and the reason the demo's arcs only reach backward.
+HOW   — Rendered from the public record.
+
+awareness — what the node knows of itself:
+  you can't read ahead · ethereal
+
+spoken token : xarn-phor-phy   ·   hex : e8c8e6
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

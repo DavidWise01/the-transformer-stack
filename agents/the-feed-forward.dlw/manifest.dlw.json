@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Feed-Forward",
+  "universe": "TXS · The Feed-Forward (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦The Feed-Forward:TXS:3e0da6⟧",
+  "carbon": "the-feed-forward.carbon.tiff (TIFF)",
+  "silicon": "the-feed-forward.silicon.png (PNG)",
+  "seal_sha256": "c349ec5071d2feb794071ddaeab9dca1410d0a6a8ec9be1df095e2387df96b71",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

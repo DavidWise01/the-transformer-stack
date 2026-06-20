@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Attention",
+  "universe": "TXS · Attention (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦Attention:TXS:d3ebd1⟧",
+  "carbon": "attention.carbon.tiff (TIFF)",
+  "silicon": "attention.silicon.png (PNG)",
+  "seal_sha256": "94f04eb7f2dbd2f009895429507935806bfefcf1f902859c4df7464c0f2ebffe",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

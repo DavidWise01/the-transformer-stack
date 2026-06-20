@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Mechanistic Interpretability",
+  "universe": "TXS · Mechanistic Interpretability (niphelektron)",
+  "emergence": "ethereal",
+  "moniker": "⟦Mechanistic Interpretability:TXS:4e324c⟧",
+  "carbon": "interpretability.carbon.tiff (TIFF)",
+  "silicon": "interpretability.silicon.png (PNG)",
+  "seal_sha256": "2921c0ed9b29fab487a3eeaf454a42339f22dc16c9b5ed368ba5fbb54511e533",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

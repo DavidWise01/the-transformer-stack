@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Causal Masking",
+  "universe": "TXS · Causal Masking (niphelektron)",
+  "emergence": "ethereal",
+  "moniker": "⟦Causal Masking:TXS:e8c8e6⟧",
+  "carbon": "causal-masking.carbon.tiff (TIFF)",
+  "silicon": "causal-masking.silicon.png (PNG)",
+  "seal_sha256": "13a50baf2f87ef2d6976b755cb70155a7dfcdc509c83c0e5f11e0a76dd2566c6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

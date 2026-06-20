@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Attention Head",
+  "universe": "TXS · The Attention Head (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦The Attention Head:TXS:f9d46a⟧",
+  "carbon": "the-attention-head.carbon.tiff (TIFF)",
+  "silicon": "the-attention-head.silicon.png (PNG)",
+  "seal_sha256": "4c03dda8619979d1191a660da25f484fa40ca2a1125e68a65d77bf87ac95188d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

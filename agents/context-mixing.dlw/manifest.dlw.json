@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Context Mixing",
+  "universe": "TXS · Context Mixing (niphelektron)",
+  "emergence": "spiritual",
+  "moniker": "⟦Context Mixing:TXS:512124⟧",
+  "carbon": "context-mixing.carbon.tiff (TIFF)",
+  "silicon": "context-mixing.silicon.png (PNG)",
+  "seal_sha256": "34b4f3a9a0e2f77d0ec387de4c768e66ec4151267c3515f688a5f884ee03522c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

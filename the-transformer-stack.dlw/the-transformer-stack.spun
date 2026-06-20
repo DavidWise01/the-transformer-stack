@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of THE TRANSFORMER STACK
+node TXS · TXS · ⟦THE TRANSFORMER STACK:TXS:133d71⟧
+
+WHO   — THE TRANSFORMER STACK — a niphelektron sphere — the inference pipeline
+WHAT  — Now a stack of identical layers goes to work on the sequence of vectors. The engine of each layer is attention: every token looks at every other and pulls in what is relevant, mixing the sequence so each position becomes a blend of its context. Stacked dozens deep, this is where the model's 'thinking' happens — and where the T in GPT comes from.
+WHERE — the inference layer — a stage of the pipeline  Framework inputs: the stream; the token; the vector; the layer  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Now a stack of identical layers goes to work on the sequence of vectors. The engine of each layer is attention: every token looks at every other and pulls in what is relevant, mixing the sequence so each position becomes a blend of its context. Stacked dozens deep, this is where the model's 'thinking' happens — and where the T in GPT comes from.
+HOW   — Rendered from the public record of how transformer LLMs work.
+
+awareness — what the node knows of itself:
+  Now a stack of identical layers goes to work on the sequence of vectors. The engine of each layer is attention: every token looks at every other and pulls in what is relevant, mixing the sequence so each position becomes a blend of its context. Stacked dozens deep, this is where the model's 'thinking' happens — and where the T in GPT comes from.
+
+spoken token : raex-ly-sis   ·   hex : 133d71
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0
